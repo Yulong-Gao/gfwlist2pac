@@ -2578,7 +2578,8 @@ var domains = {
   "gmozomg.izihost.org": 1, 
   "wtfpeople.com": 1, 
   "blog.qooza.hk": 1, 
-  "1-apple.com.tw": 1
+  "1-apple.com.tw": 1,
+  "android.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080;SOCKS 127.0.0.1:1080;DIRECT;";
